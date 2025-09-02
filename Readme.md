@@ -150,3 +150,5 @@ Kaia SDK의 독특한 **`senderTxHashRLP`** 방식은 트랜잭션 서명과 처
 ---
 
 이렇듯 Line의 탄탄한 소셜 인프라와 다가가기 쉽게 설계된 게이밍 Defi, 가스리스 UX를 통해 사람들이 재미를 느끼고 콘텐츠를 공유하며 더 많은 참여를 이끌어낼 수 있고 이는 최종적으로 KAIA 체인 생태계의 활성화를 불러오게 될 것입니다.
+
+프로젝트 데모 영상: [![Watch on YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://youtu.be/rSqFfBLWnKk)
